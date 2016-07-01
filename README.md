@@ -3,7 +3,7 @@
 This is a Python web application made using Flask framework.
 This project can be used as a skeleton.
 
------------------------------------------------
+- ----------------------------------------------
 /application
     /db			#
     /model		#
@@ -14,4 +14,4 @@ This project can be used as a skeleton.
 	/css		#
 	/js		#
 	/img		#
------------------------------------------------
+- ----------------------------------------------
