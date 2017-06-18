@@ -15,4 +15,22 @@ It includes:
     - Quicksand (sans-serif)
     - Space Mono (monospace)
     - Inconsolata (monospace)
-    - Merriweather (serif)    
+    - Merriweather (serif)
+
+## Instalation
+
+Run pip to install the dependencies defined in `requirements.txt`:
+
+```sh
+pip install -r requirements.txt
+```
+
+## Run
+
+Run flask server with:
+
+```sh
+python main.py
+```
+
+It will run a webserver in port 4000 with debug mode on
